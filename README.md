@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Morez</h1>
 
+
+
 <p align="center">🌱 I’m currently learning Python</p>
 
 ---
@@ -20,21 +22,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morez&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-<h3 align="center">🐍 GitHub Contribution Snake:</h3>
-<p align="center">
-  <img src="https://github.com/Morez/Morez/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
-</p>
-
----
-
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="mailto:your-email@example.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="30" />
-  </a>
-</p>
