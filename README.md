@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morez</h1>
-- 🌱 I’m currently learning **Python**
-
-<h3 align="left">Connect with me:</h3>
+- 🌱 I’m currently learning Python
 <p align="left">
 </p>
 
