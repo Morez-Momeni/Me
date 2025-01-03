@@ -5,9 +5,6 @@
 <div align="center">
   <img src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhhee.gif" alt="Pixels Neon GIF" width="500">
 </div>
-
----
-
 <p align="center">  
   🌱 I’m currently diving deep into <strong>Python</strong> and expanding my skills every day.  
 </p>
