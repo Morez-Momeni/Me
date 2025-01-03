@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" alt="Pixels Neon GIF" width="500">
+  <img src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhhee.gif" alt="Pixels Neon GIF" width="500">
 </div>
 
 ---
