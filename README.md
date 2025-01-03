@@ -4,9 +4,12 @@
 ---
 
 
-<img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="Pixels Neon GIF" width="400">
+<div align="center">
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="Pixels Neon GIF" width="400">
+</div>
 
 
+---
 
 <p align="center">🌱 I’m currently learning Python</p>
 
