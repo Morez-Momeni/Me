@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Morez</h1>
 
-![My GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjitendramakwana143&psig=AOvVaw0no-S_fdnBvRG55tFg1hRJ&ust=1736003476173000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiGkYfr2YoDFQAAAAAdAAAAABBA)
+
+---
+
+
+<img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="Pixels Neon GIF" width="400">
+
 
 
 <p align="center">🌱 I’m currently learning Python</p>
