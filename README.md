@@ -1,6 +1,5 @@
 <h1 align="center">✨ Hi there, I'm Morez 👋 ✨</h1>
 
----
 
 <div align="center">
   <img src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhhee.gif" alt="Pixels Neon GIF" width="500">
