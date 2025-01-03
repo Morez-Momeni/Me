@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEdmoO2gDceEQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1692011648348?e=2147483647&v=beta&t=KRWdFcmkm_4x4L085noqnxx5CKfs65r87HEWY2SttT8" alt="Pixels Neon GIF" width="500">
+  <img src="https://media1.giphy.com/media/KDyxouSEfhOs9i4oru/giphy.gif?cid=6c09b95224nkg4lrtmx3dupoy7myrmiesxerji3myb2p272v&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Pixels Neon GIF" width="500">
 </div>
 
 ---
