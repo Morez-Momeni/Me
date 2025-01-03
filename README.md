@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/KDyxouSEfhOs9i4oru/giphy.gif?cid=6c09b95224nkg4lrtmx3dupoy7myrmiesxerji3myb2p272v&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Pixels Neon GIF" width="500">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif" alt="Pixels Neon GIF" width="500">
 </div>
 
 ---
