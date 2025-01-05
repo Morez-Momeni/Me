@@ -1,4 +1,11 @@
-<h1 align="center">✨ Hi there, I'm Morez 👋 ✨</h1>
+<div align="center">
+  <img src="file:///C:/Users/all/Downloads/DALL%C2%B7E%202025-01-05%2014.21.23%20-%20A%20modern,%20professional%20banner%20designed%20for%20a%20GitHub%20profile%20with%20the%20name%20'Morez'%20prominently%20displayed.%20The%20design%20should%20feature%20a%20clean,%20minimalist.webp" alt="Pixels Neon GIF" width="500">
+</div>
+<p align="center">   
+  🌱 I’m currently diving deep into <strong>Python</strong> and expanding my skills every day.  
+</p>
+
+---
 
 
 <div align="center">
