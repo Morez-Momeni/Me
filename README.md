@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Pixels Neon GIF" width="500">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s" alt="Pixels Neon GIF" width="500">
 </div>
 <p align="center">   
   🌱 I’m currently diving deep into <strong>Python</strong> and expanding my skills every day.  
