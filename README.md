@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://files.oaiusercontent.com/file-4xvya9Fmr3uqhmqncNV7t1?se=2025-01-05T10%3A54%3A56Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D653b327a-e4e6-4507-b63a-c081ef208cdf.webp&sig=g0yUZEr5%2Bkte5YoqUeiGS9LplbpEstdsNYELfqWivr4%3D" alt="Pixels Neon GIF" width="500">
-</div>
+<h1 align="center">👋 Hi, I'm <span style="color: #6f42c1;">Morez</span>!</h1>
+
 <p align="center">   
   🌱 I’m currently diving deep into <strong>Python</strong> and expanding my skills every day.  
 </p>
