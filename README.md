@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color: #6f42c1;">Morez</span>!</h1>
 
-<p align="center">   
-  🌱 I’m currently diving deep into <strong>Python</strong> and expanding my skills every day.  
-</p>
-
 ---
 
 
