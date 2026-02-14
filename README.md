@@ -1,2 +1,2 @@
-#[Cold Commitment]
+Cold Commitment
 
