@@ -1,6 +1,5 @@
 # Cold Commitment
 
-Consistency over intensity. Small steps, repeated daily, build the foundation for mastery. This space is a record of that journey—learning, building, and growing one commit at a time.
-
+Roots grow in the dark. These commits are the proof of roots, not the applause.
 > "We are what we repeatedly do. Excellence, then, is not an act, but a habit."  
 > — Aristotle
