@@ -82,7 +82,7 @@ morez@github:~$ █
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morez-Momeni &theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Morez-Momeni /output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@ Goodbye.
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,30,2"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,30,2
     alt="footer"
   />
 </p>
