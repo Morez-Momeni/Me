@@ -79,14 +79,6 @@ morez@github:~$ history
 morez@github:~$ █
 ```
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Morez-Momeni /output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 ```bash
 morez@github:~$ git status
 
@@ -111,7 +103,7 @@ Goodbye.
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,30,2
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=gradient&customColorList=12,20,30,2"
     alt="footer"
   />
 </p>
