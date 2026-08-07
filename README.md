@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=gradient&customColorList=19,30,25,24"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=gradient&customColorList=12,20,30,2"
+    alt="header"
+  />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=SSH+Connection+Established...;Welcome+to+my+terminal.;Always+Learning..." />
 </p>
@@ -80,15 +82,7 @@ morez@github:~$ █
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morez-Momeni &theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF"/>
 </p>
 
 ---
@@ -116,5 +110,8 @@ Goodbye.
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=19,30,25,24"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,30,2"
+    alt="footer"
+  />
 </p>
