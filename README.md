@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=24,25,30,19&section=header"/>
 </p>
 
 <p align="center">
@@ -116,5 +116,5 @@ Goodbye.
 ```
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=19,30,25,24"/>
 </p>
